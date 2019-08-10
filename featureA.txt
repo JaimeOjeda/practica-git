@@ -1,4 +1,4 @@
 text for featureA
 second commit
-third commit message
-fourth commit
+third commit message.
+fourth commit.
